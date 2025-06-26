@@ -1,2 +1,4 @@
+Hi welcome
+f2 changes at line 2
 Hi welcome.
 f1 changes
